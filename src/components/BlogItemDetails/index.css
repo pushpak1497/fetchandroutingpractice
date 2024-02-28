@@ -1,0 +1,24 @@
+/* Write your CSS code here */
+.author-details-container {
+  display: flex;
+  align-items: center;
+}
+.heading {
+  text-align: center;
+}
+
+.blog-details-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.icon {
+  height: 40px;
+  width: 40px;
+  border-radius: 50px;
+  align-self: flex-start;
+}
+.image1 {
+  width: 80%;
+  height: 300px;
+}
